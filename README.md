@@ -4,8 +4,8 @@ A variation of the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
 Additions to [original Casper Menu by Jason Friedrich](https://github.com/jbfriedrich/casper-menu) include:
 
-- Home navigation button in post.hbs template
-- Scaled down version of syntax highlight with Prism.js (markup, CSS, JavaScript, Python, Bash)
+- Home navigation button in post.hbs template.
+- Scaled down version of syntax highlight with Prism.js (markup, CSS, JavaScript, Python, Bash).
 
 ## Copyright & License
 
